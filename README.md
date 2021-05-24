@@ -13,7 +13,7 @@ A set of custom minimalist 4xx and 5xx error pages for Nginx.
     ```
 2. Clone the repository:
 	```
-    git clone https://github.com/bartosjiri/nginx-errors.git error-pages
+    git clone https://github.com/jaysnm/nginx-errors.git error-pages
     ```
 
 3. Add the custom error pages to the server's default configuration in `/etc/nginx/sites-enabled/default` file:
